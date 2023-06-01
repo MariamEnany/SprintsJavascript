@@ -29,5 +29,6 @@ function add(){
                 this.parentNode.parentNode.remove();
             }
         }
+        
     }
 }
